@@ -30,9 +30,9 @@ Welcome to the Full-Stack Developer Portfolio Website repository! This project s
 ## Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript, React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Styling**: Tailwind CSS or Bootstrap (customizable)
+- **Backend**: python, Djnago, Node.js, 
+- **Database**: MongoDB, 
+- **Styling**: Tailwind CSS or Shadcn Ui (customizable)
 - **Hosting**: Deployed on platforms like Netlify, Vercel, or AWS
 - **Version Control**: Git and GitHub
 
@@ -48,8 +48,8 @@ Welcome to the Full-Stack Developer Portfolio Website repository! This project s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-   cd portfolio-website
+   git clone https://github.com/Atailung/Arun-Joshi
+   cd portfolio
    ```
 
 2. Install dependencies:
